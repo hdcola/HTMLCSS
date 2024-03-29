@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.student {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.big {
+  font-size: 100px;
+}
+
+a {
+  background-color: yellowgreen;
+  padding: 10px;
+}
