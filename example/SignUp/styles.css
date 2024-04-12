@@ -1,0 +1,13 @@
+.singupForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  background-color: white;
+  padding: 20px 40px;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px rgba(185, 192, 197, 0.5);
+}
