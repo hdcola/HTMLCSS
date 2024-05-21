@@ -13,3 +13,7 @@ img {
 img:hover {
   background-color: #333;
 }
+
+.active {
+  background-color: #4caf50;
+}
